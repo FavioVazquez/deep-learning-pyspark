@@ -80,8 +80,9 @@ released to public sometime next month and tell that it is still in private beta
 
 ![](https://cdn-images-1.medium.com/max/1600/1*cbQSGKgPDBNoBfGdDJqESg.png)
 
-You can download the full Notebook here to see all the code:
+You can see the full code in the Notebook here:
 
+https://github.com/FavioVazquez/deep-learning-pyspark/blob/master/SparkDL.ipynb
 
 Soon I’ll discuss Distributed Hyperparameter Tuning with Spark, and
 will try new models and examples :). So stay tuned!

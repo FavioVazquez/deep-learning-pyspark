@@ -1,5 +1,7 @@
 # Deep Learning with Pyspark
 
+![](https://cdn-images-1.medium.com/max/2000/1*DLDddze-fQTKzG0CZt3i1A.jpeg)
+
 Hi everyone and welcome back to learning :). In this article I’ll continue the
 discussion on Deep Learning with Apache Spark. You can see the preparation part for this repo and code 
 [here](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd).
